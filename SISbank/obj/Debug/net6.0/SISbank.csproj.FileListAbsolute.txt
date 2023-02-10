@@ -1,0 +1,15 @@
+C:\Users\Guilherme Ramos\Desktop\SISbank\SISbank\bin\Debug\net6.0\SISbank.exe
+C:\Users\Guilherme Ramos\Desktop\SISbank\SISbank\bin\Debug\net6.0\SISbank.deps.json
+C:\Users\Guilherme Ramos\Desktop\SISbank\SISbank\bin\Debug\net6.0\SISbank.runtimeconfig.json
+C:\Users\Guilherme Ramos\Desktop\SISbank\SISbank\bin\Debug\net6.0\SISbank.dll
+C:\Users\Guilherme Ramos\Desktop\SISbank\SISbank\bin\Debug\net6.0\SISbank.pdb
+C:\Users\Guilherme Ramos\Desktop\SISbank\SISbank\obj\Debug\net6.0\SISbank.csproj.AssemblyReference.cache
+C:\Users\Guilherme Ramos\Desktop\SISbank\SISbank\obj\Debug\net6.0\SISbank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme Ramos\Desktop\SISbank\SISbank\obj\Debug\net6.0\SISbank.AssemblyInfoInputs.cache
+C:\Users\Guilherme Ramos\Desktop\SISbank\SISbank\obj\Debug\net6.0\SISbank.AssemblyInfo.cs
+C:\Users\Guilherme Ramos\Desktop\SISbank\SISbank\obj\Debug\net6.0\SISbank.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme Ramos\Desktop\SISbank\SISbank\obj\Debug\net6.0\SISbank.dll
+C:\Users\Guilherme Ramos\Desktop\SISbank\SISbank\obj\Debug\net6.0\refint\SISbank.dll
+C:\Users\Guilherme Ramos\Desktop\SISbank\SISbank\obj\Debug\net6.0\SISbank.pdb
+C:\Users\Guilherme Ramos\Desktop\SISbank\SISbank\obj\Debug\net6.0\SISbank.genruntimeconfig.cache
+C:\Users\Guilherme Ramos\Desktop\SISbank\SISbank\obj\Debug\net6.0\ref\SISbank.dll
